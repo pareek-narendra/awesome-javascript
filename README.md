@@ -269,6 +269,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 * [Multi-threading using web-workers](https://www.loginradius.com/engineering/blog/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers: Adding Multi-threading to JavaScript
+* [Understanding event loop in JavaScript](https://www.loginradius.com/engineering/blog/understanding-event-loop/) - Article about the concepts of event loop in javascript
 
 ## Data Visualization
 *Data visualization tools for the web.*
@@ -906,7 +907,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
 * [Anime.js](http://animejs.com) - A JavaScript animation engine http://animejs.com.
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web http://mojs.io.
-* [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+* [p
+es.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
